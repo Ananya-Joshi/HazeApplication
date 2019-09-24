@@ -1,3 +1,4 @@
+#Template code, no changes
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
