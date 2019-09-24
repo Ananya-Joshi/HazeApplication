@@ -1,6 +1,14 @@
 # HazeApplication
 
-A simple Flask application with a database and clock that alerts users when there is a new haze advisory from the NEA near NUS. 
+A simple Flask application with a database and clock that alerts users when there is a new haze advisory from the NEA near NUS. Available at https://haze-nus.herokuapp.com. 
+
+# To Use
+
+There are 4 environment variables you must set yourself: 
+ 1. export APP_SETTINGS="config.DevelopmentConfig"
+ 2. export DATABASE_URL="YOURDATABASE"
+ 3. export EMAIL_USER=YOUR_EMAIL
+ 4. export EMAIL_PASSWORD=YOUR_PASSWORD
 
 
 # Resources Used:
