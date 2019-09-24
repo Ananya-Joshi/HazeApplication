@@ -1,3 +1,7 @@
+#This file sets up the database architecture with two tables: results and variable. 
+#Results saves a user's email and Variable saves the state of the alert. 
+#Alert only if switching from non-haze to haze state. 
+
 from app import db
 from sqlalchemy.dialects.postgresql import JSON
 
