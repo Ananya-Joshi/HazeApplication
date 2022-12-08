@@ -3,7 +3,7 @@ APScheduler==3.6.1
 base==1.0.4
 beautifulsoup4==4.4.1
 blinker==1.4
-certifi==2019.9.11
+certifi==2022.12.7
 Click==7.0
 cycler==0.10.0
 DateTime==4.3
